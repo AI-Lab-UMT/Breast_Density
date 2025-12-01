@@ -1,5 +1,7 @@
 # An Efficient, Robust and Explainable Design for Assessing Breast Density in Mammographies
 
+<img width="701" height="451" alt="bd1" src="https://github.com/user-attachments/assets/aeb2ba8d-a717-47ef-9743-722a4a8915ca" />
+
 Breast density is a key factor in assessing cancer suspicion in mammographies: **the denser the breast, the harder it becomes to detect tumors**.  
 The *Breast Imaging Reporting & Data System (BI-RADS)* of the American College of Radiology classifies mammographies into four density categories: **A, B, C, and D**, indicating increasing breast density.
 
