@@ -27,6 +27,7 @@ These markers are simple to compute, interpretable, and directly track morpholog
 ----------------------------------------------------
 ## Classification Model
 ----------------------------------------------------
+<img width="1022" height="779" alt="model_architecture16" src="https://github.com/user-attachments/assets/caef1b7f-b6a1-4a4d-b704-a709ec636096" />
 A small, lightweight deep learning model was used:
 
 - **One input per marker**
