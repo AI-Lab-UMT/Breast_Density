@@ -158,6 +158,3 @@ Run `train_patient_level.py` after building the marker table. It prints mean ± 
 
 If you use this code, please cite the article above (citation details will be added after publication).
 
-## Acknowledgment
-
-The first author was supported by a grant from the French Embassy in Albania.
