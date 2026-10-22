@@ -1,4 +1,4 @@
-# Interpretable Breast Density Classification from Four Histogram-Derived Markers
+# Interpretable Breast Density Classification Using Four Histogram-Derived Markers and a Shallow Neural Network
 
 <img width="701" height="451" alt="bd1" src="https://github.com/user-attachments/assets/aeb2ba8d-a717-47ef-9743-722a4a8915ca" />
 
